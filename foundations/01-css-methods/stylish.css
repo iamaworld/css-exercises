@@ -1,0 +1,19 @@
+.title-word{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.idk{
+    background-color: green;
+    font-size: 18px;
+    color: white;
+}
+
+.buttons{
+    background-color: orange;
+    font-size: 18px;
+    border: none;
+}

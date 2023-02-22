@@ -1,0 +1,24 @@
+.redsmall{
+    background-color: lightpink;
+    
+}
+body{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+
+p:nth-child(odd) {
+    font-size: 24px !important;
+}
+
+#number4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.coolerbig{
+    background-color: lightpink;
+}
